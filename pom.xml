@@ -34,7 +34,7 @@
                 <directory>${npm.output.directory}</directory>
               </resource>
             </webResources>
-            <webXml>${basedir}/web.xml</webXml>
+            <webXml>${basedir}/src/main/webapp/web.xml</webXml>
           </configuration>
         </plugin>
 
